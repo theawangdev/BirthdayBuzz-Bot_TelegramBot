@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "BirthdayBuzz-Bot-NETCore": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Firebase__DB_URL": "",
+        "Firebase__DB_SecretKey": "",
+        "Telegram__Bot_Token": "",
+        "Telegram__Bot_Owner_ID": ""
+      }
+    }
+  }
+}

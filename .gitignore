@@ -1,0 +1,18 @@
+# Build folders
+bin/
+obj/
+.vs/
+
+# User files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Cache
+*.cache
+*.db
+
+# Environment secrets
+*.env
