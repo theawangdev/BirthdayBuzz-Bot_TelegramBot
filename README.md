@@ -20,7 +20,7 @@ A private Telegram Bot built with C# .NET Core, integrate with Firebase as Datab
 
 ⏰ Daily scheduled birthday notifications with birthday wish.
 <br>📡 Firebase integration for storing birthdays & subscribers data.
-<br>🚀 Deployment and Hosting on Railway, read code from GitHub (Free Tier)
+<br>🚀 Deployment and Hosting on Railway, read code from GitHub (Free Tier).
 
 <h2>🛠 Tech Stack</h2>
 • C# .NET Core
